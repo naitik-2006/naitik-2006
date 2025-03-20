@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate student pursuing an Integrated Du
 - Achieved robust performance in question answering across diverse domains.
 - **Tools:** Python, LangChain, Pathway
 - **Blog:** [Pathway Blog on Multi-Agent RAG](https://pathway.com/blog/multi-agent-rag-interleaved-retrieval-reasoning/)
-- **GitHub Repo:** [GitHub - Pathway Project](https://github.com/naitik-2006/pathway_project)
+- **GitHub Repo:** [GitHub - Pathway Project]((https://github.com/naitik-2006/Dynamic-Multi-Agent-RAG-Pathway))
 
 ### 🎥 GIF Question Answering MultiModal ML Training *(September - October 2024)*
 - Developed an architecture for GIF Visual Question Answering using **qformer** from BLIP-2 and **Llama3.2-1b**.
@@ -46,4 +46,4 @@ Welcome to my GitHub profile! I'm a passionate student pursuing an Integrated Du
 - **Email:** naitikagrawal838@gmail.com
 - **LinkedIn:** [linkedin.com/in/naitikag](https://www.linkedin.com/in/naitikag)  
 - **GitHub:** [github.com/naitik-2006](https://github.com/naitik-2006)  
-- **Codeforces:** [codeforces.com/profile/_naitik](https://codeforces.com/profile/_naitik)  
+- **Codeforces:** [codeforces.com/profile/_naitik](https://codeforces.com/profile/naitik_)  
