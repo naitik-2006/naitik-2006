@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naitik Agrawal!
 
-Welcome to my GitHub profile! I'm a passionate student pursuing an Integrated Dual Degree in **Mathematics and Computing** at **IIT (BHU), Varanasi**, with a strong interest in **AI/ML research**, and **algorithm design**.
+Welcome to my GitHub profile! I'm a passionate student pursuing an Integrated Dual Degree in **Mathematics and Computing** at **IIT (BHU), Varanasi**. I specialize in **AI/ML research**, with experience in **multi-modal learning**, **NLP**, and **computer vision**. I'm enthusiastic about developing innovative solutions for real-world challenges.
 
 ## 🛠️ Projects
 
@@ -14,8 +14,9 @@ Welcome to my GitHub profile! I'm a passionate student pursuing an Integrated Du
 - **GitHub Repo:** [GitHub - Pathway Project]((https://github.com/naitik-2006/Dynamic-Multi-Agent-RAG-Pathway))
 
 ### 🎥 GIF Question Answering MultiModal ML Training *(September - October 2024)*
-- Developed an architecture for GIF Visual Question Answering using **qformer** from BLIP-2 and **Llama3.2-1b**.
-- Explored **Vision-Language Models (VLMs)** and their fine-tuning potential on GIF data.
+- Developed a custom architecture combining **BLIP-2** and **Q-Former** to effectively capture spatial and temporal features.
+- Integrated **Llama3.2-1b** for advanced reasoning and understanding in video-based question-answering tasks.
+- Applied quantization techniques to optimize model performance for large-scale inference.
 - **Tools:** PyTorch.
 - **GitHub Repo:** [GitHub - GIF VQA](https://github.com/naitik-2006/gif_vqa)
 
