@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate student pursuing an Integrated Du
 - Achieved robust performance in question answering across diverse domains.
 - **Tools:** Python, LangChain, Pathway
 - **Blog:** [Pathway Blog on Multi-Agent RAG](https://pathway.com/blog/multi-agent-rag-interleaved-retrieval-reasoning/)
-- **GitHub Repo:** [GitHub - Pathway Project]((https://github.com/naitik-2006/Dynamic-Multi-Agent-RAG-Pathway))
+- **GitHub Repo:** [GitHub - Pathway Project](https://github.com/naitik-2006/Dynamic-Multi-Agent-RAG-Pathway)
 
 ### 🎥 GIF Question Answering MultiModal ML Training *(September - October 2024)*
 - Developed a custom architecture combining **BLIP-2** and **Q-Former** to effectively capture spatial and temporal features.
